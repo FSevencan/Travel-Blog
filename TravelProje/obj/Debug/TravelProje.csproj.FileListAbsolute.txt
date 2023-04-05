@@ -1,0 +1,420 @@
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\TravelProje.dll.config
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\TravelProje.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\TravelProje.pdb
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\csc.exe
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\csc.exe.config
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\csc.rsp
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\csi.exe
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\csi.exe.config
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\csi.rsp
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.AppContext.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Console.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Net.Http.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\vbc.exe
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\vbc.exe.config
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\vbc.rsp
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\Antlr3.Runtime.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\Newtonsoft.Json.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.Helpers.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.Mvc.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.Optimization.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.Razor.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.WebPages.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.WebPages.Razor.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\WebGrease.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.Helpers.xml
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.Mvc.xml
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.Optimization.xml
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.Razor.xml
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.WebPages.xml
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\System.Web.WebPages.Razor.xml
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\Newtonsoft.Json.xml
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\Antlr3.Runtime.pdb
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\obj\Debug\TravelProje.csproj.AssemblyReference.cache
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\obj\Debug\TravelProje.csproj.CoreCompileInputs.cache
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\obj\Debug\TravelProje.csproj.CopyComplete
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\obj\Debug\TravelProje.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\obj\Debug\TravelProje.pdb
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\EntityFramework.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\EntityFramework.SqlServer.dll
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\EntityFramework.xml
+C:\Users\SEVENCAN\source\repos\TravelProje\TravelProje\bin\EntityFramework.SqlServer.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\TravelProje.dll.config
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\TravelProje.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\TravelProje.pdb
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\csc.exe
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\csc.exe.config
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\csc.rsp
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\csi.exe
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\csi.exe.config
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\csi.rsp
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.AppContext.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Console.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Net.Http.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\vbc.exe
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\vbc.exe.config
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\vbc.rsp
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Antlr3.Runtime.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\EntityFramework.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\EntityFramework.SqlServer.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Newtonsoft.Json.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.Helpers.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.Mvc.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.Optimization.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.Razor.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.WebPages.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.WebPages.Razor.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\WebGrease.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\EntityFramework.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\EntityFramework.SqlServer.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.Helpers.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.Mvc.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.Optimization.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.Razor.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.WebPages.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Web.WebPages.Razor.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Newtonsoft.Json.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Antlr3.Runtime.pdb
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\obj\Debug\TravelProje.csproj.AssemblyReference.cache
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\obj\Debug\TravelProje.csproj.CoreCompileInputs.cache
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\obj\Debug\TravelProje.csproj.CopyComplete
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\obj\Debug\TravelProje.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\obj\Debug\TravelProje.pdb
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\FluentValidation.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\FluentValidation.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\obj\Debug\TravelProje.Migrations.acıklamalar.resources
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\obj\Debug\TravelProje.csproj.GenerateResource.cache
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Buffers.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Memory.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Numerics.Vectors.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Text.Encodings.Web.dll
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Buffers.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Memory.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Numerics.Vectors.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\bin\System.Text.Encodings.Web.xml
+C:\Users\SEVENCAN\Desktop\TravelProje\TravelProje\obj\Debug\TravelProje.Migrations.acıklamaguncelleme.resources
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\TravelProje.dll.config
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\TravelProje.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\TravelProje.pdb
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\csc.exe
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\csc.exe.config
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\csc.rsp
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\csi.exe
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\csi.exe.config
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\csi.rsp
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.AppContext.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Console.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Net.Http.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\vbc.exe
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\vbc.exe.config
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\vbc.rsp
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Antlr3.Runtime.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\EntityFramework.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\EntityFramework.SqlServer.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\FluentValidation.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Newtonsoft.Json.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Buffers.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Memory.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Numerics.Vectors.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Text.Encodings.Web.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.Helpers.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.Mvc.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.Optimization.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.Razor.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.WebPages.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.WebPages.Razor.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\WebGrease.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\EntityFramework.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\EntityFramework.SqlServer.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\FluentValidation.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Buffers.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Memory.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Numerics.Vectors.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Text.Encodings.Web.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.Helpers.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.Mvc.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.Optimization.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.Razor.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.WebPages.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\System.Web.WebPages.Razor.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Newtonsoft.Json.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Antlr3.Runtime.pdb
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\obj\Debug\TravelProje.csproj.AssemblyReference.cache
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\obj\Debug\TravelProje.Migrations.acıklamalar.resources
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\obj\Debug\TravelProje.Migrations.acıklamaguncelleme.resources
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\obj\Debug\TravelProje.csproj.GenerateResource.cache
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\obj\Debug\TravelProje.csproj.CoreCompileInputs.cache
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\obj\Debug\TravelProje.csproj.CopyComplete
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\obj\Debug\TravelProje.dll
+C:\Users\SEVENCAN\Desktop\TravelProje - Kopya\TravelProje\obj\Debug\TravelProje.pdb
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\TravelProje.dll.config
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\TravelProje.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\TravelProje.pdb
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\csc.exe
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\csc.exe.config
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\csc.rsp
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\csi.exe
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\csi.exe.config
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\csi.rsp
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.AppContext.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Console.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Net.Http.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\vbc.exe
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\vbc.exe.config
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\vbc.rsp
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Antlr3.Runtime.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\EntityFramework.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\EntityFramework.SqlServer.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\FluentValidation.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Newtonsoft.Json.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Buffers.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Memory.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Numerics.Vectors.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Text.Encodings.Web.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.Helpers.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.Mvc.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.Optimization.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.Razor.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.WebPages.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.WebPages.Razor.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\WebGrease.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\EntityFramework.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\EntityFramework.SqlServer.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\FluentValidation.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Buffers.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Memory.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Numerics.Vectors.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Text.Encodings.Web.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.Helpers.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.Mvc.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.Optimization.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.Razor.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.WebPages.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\System.Web.WebPages.Razor.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Newtonsoft.Json.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Antlr3.Runtime.pdb
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\obj\Debug\TravelProje.csproj.AssemblyReference.cache
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\obj\Debug\TravelProje.Migrations.acıklamalar.resources
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\obj\Debug\TravelProje.Migrations.acıklamaguncelleme.resources
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\obj\Debug\TravelProje.csproj.GenerateResource.cache
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\obj\Debug\TravelProje.csproj.CoreCompileInputs.cache
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\obj\Debug\TravelProje.csproj.CopyComplete
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\obj\Debug\TravelProje.dll
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\obj\Debug\TravelProje.pdb
+C:\Users\SEVENCAN\Desktop\Bitirdiğim Projeler\TravelProje\TravelProje\obj\Debug\TravelProje.Migrations.initial.resources

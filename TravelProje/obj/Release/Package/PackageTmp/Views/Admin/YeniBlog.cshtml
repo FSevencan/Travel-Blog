@@ -1,0 +1,42 @@
+﻿@model TravelProje.Models.Sınıflar.Blog
+
+
+@{
+    ViewBag.Title = "YeniBlog";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yeni Blog Ekleme</h2>
+<br />
+
+
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Baslik)
+        @Html.TextBoxFor(m => m.Baslik, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Baslik, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Tarih)
+        @Html.TextBoxFor(m => m.Tarih, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Tarih, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.BlogImage)
+        @Html.TextBoxFor(m => m.BlogImage, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.BlogImage, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Aciklama)
+        @Html.TextAreaFor(m => m.Aciklama,15,1 ,new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Aciklama, "Açıklama minimum 250 karakter olmalıdır.", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Blog Ekle</button>
+    </div>
+    
+}
+

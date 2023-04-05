@@ -1,0 +1,25 @@
+﻿@model TravelProje.Models.Sınıflar.Yorumlar
+
+<div class="content-form">
+        <h3>Bir Yorum Yapın</h3>
+
+        <form method="post">
+
+            <input type="text" placeholder="Kullanıcı Adı*" name="KullaniciAdi" required />
+            <input type="text" placeholder="Mail Adresi*" name="Mail" required />
+
+            <textarea placeholder="Yorum*" name="Yorum" required="" ></textarea>
+           
+            @*// style="visibility:collapse" >>> yazarak ID KUTUSUNUN GORUNURLUGUNU KALDIRMIS OLDUK!*@
+            <input type="text" style="visibility:collapse" placeholder="ID" name="Blogid" value="@ViewBag.deger" readonly />  @*// readonly degıstırelemez yapmak ıcın*@
+            <input type="submit" value="Gönder" />
+        </form>
+    </div>
+   
+
+@*// SAYFA YENILENDIGINDE VERITABANINA 2 DEFA YUKLEME YAPIYORDU BU KOD COZDU GIBI GOZUKUYOR=)*@
+<script>
+    if ( window.history.replaceState ) {
+        window.history.replaceState( null, null, window.location.href );
+    }
+</script>

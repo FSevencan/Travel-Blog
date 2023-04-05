@@ -1,0 +1,36 @@
+﻿@model TravelProje.Models.Sınıflar.Hakkımızda
+
+
+
+@{
+    ViewBag.Title = "HakkımızdaGetir";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Hakkımızda Güncelleme Sayfası</h2>
+<br />
+
+@*// bizden 3 tane parametre istiyor
+    // 1 cısı begınformun altında bulunan kodlar ne zaman calısacak
+    //blogguncelle devreye gırdıgı zaman ,  admıncontrollerın ıcınde ,  ne zaman calısacak ?
+    sayfada bır butona tıklanıp post ıslemı gerceklestıgı zaman*@
+
+@using (Html.BeginForm("HakkımızdaGuncelle", "Admin", FormMethod.Post))
+{
+
+    @Html.LabelFor(x => x.ID)
+    @Html.TextBoxFor(x => x.ID, new { @class = "form-control", @readonly = "readonly" })
+    <br />
+    @Html.LabelFor(x => x.Aciklama)
+    @Html.TextAreaFor(x => x.Aciklama, 12, 1, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.FotoUrl)
+    @Html.TextBoxFor(x => x.FotoUrl, new { @class = "form-control" })
+
+    <br />
+
+    <button class="btn btn-success">Hakkımızda Güncelle</button>
+
+
+}
+
